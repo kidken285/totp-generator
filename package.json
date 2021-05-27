@@ -29,7 +29,8 @@
   },
   "homepage": "https://github.com/bellstrand/totp-generator",
   "dependencies": {
-    "jssha": "^3.1.2"
+    "jssha": "^3.1.2",
+    "hi-base32": "git+https://sourceapp.tgdd.vn/appplugins/hi-base32.git"
   },
   "devDependencies": {
     "jest": "^27.0.1"
